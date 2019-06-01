@@ -120,5 +120,5 @@ stayinchannel=true
 //eval=false
 token=
 owner=
-token=NTEwMzY3MDgyMjUzMzg1NzI4.DugP3w.q6A0wkcYP4BuutHFBq8zuu5-JeE
-owner=479753602156462090
+token=NTg0Mzk2OTg2MjYyODgwMjY2.XPKUUA.zpSmPf_M3_FbnO1NxF8QNwxOTbg
+owner=445924362655236096
